@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/netflix/static/css/main.f18b11b3.css",
+    "main.js": "/netflix/static/js/main.8cbfec6d.js",
+    "static/js/787.0904c1f0.chunk.js": "/netflix/static/js/787.0904c1f0.chunk.js",
+    "static/media/strange1.png": "/netflix/static/media/strange1.657f5b48fc03ca61c2a7.png",
+    "static/media/strange.webp": "/netflix/static/media/strange.ba3867c6bee7c5e81d46.webp",
+    "static/media/tv-video.mp4": "/netflix/static/media/tv-video.053994fc9a5da7a97b5b.mp4",
+    "static/media/kids.png": "/netflix/static/media/kids.1e833edf738e796645fd.png",
+    "static/media/iphone.png": "/netflix/static/media/iphone.5405e1bbbe2f41a2661e.png",
+    "static/media/netflix.jpg": "/netflix/static/media/netflix.505db70a08408e836d40.jpg",
+    "static/media/netflixtv.png": "/netflix/static/media/netflixtv.0049bc70babc1f94cf88.png",
+    "static/media/logo.svg": "/netflix/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/netflix/index.html",
+    "main.f18b11b3.css.map": "/netflix/static/css/main.f18b11b3.css.map",
+    "main.8cbfec6d.js.map": "/netflix/static/js/main.8cbfec6d.js.map",
+    "787.0904c1f0.chunk.js.map": "/netflix/static/js/787.0904c1f0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f18b11b3.css",
+    "static/js/main.8cbfec6d.js"
+  ]
+}
